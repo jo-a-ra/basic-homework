@@ -157,8 +157,9 @@ CSS에서 스크롤을 정해주고 배경색을 주고, 자바스크립트 파�
 
 #### 완성 된 전체 모습
 
-![](https://velog.velcdn.com/images/whkfk12/post/75dc30f2-4f7c-4ebb-962e-68cabe88e5d9/image.gif)
+![부트스트랩 반응형](https://github.com/user-attachments/assets/0ac7ad1a-98ea-422c-9ad6-e1d68274e144)
 
-#### 창이 줄어들때 반응하는 모습
 
-![](https://velog.velcdn.com/images/whkfk12/post/f7033c40-4383-4800-ab62-4e1f6dff1b73/image.gif)
+
+
+
